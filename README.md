@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CAMCOOP6
+- 👋 Hi, I’m Cameron Cooper
 - 👀 I’m interested in learning python for computational and parametric design.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on business ideas, design projects, and just simply thinking about the future will be and then creating it. 
